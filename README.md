@@ -1,4 +1,4 @@
-# PDF-Manipulator
+# open build folder-->open pdfmanager.exe
 This will help to manipulate pdf files....very easily .
 It mainly works with PDFs .
 It manipulate different PDF files and make them easily accessible.
